@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sezer TANCI\\source\\repos\\AuthSystem\\AuthSystem\\AuthSystem.csproj": {}
+    "C:\\Users\\Sezer TANCI\\source\\repos\\ASP.NET-Core-Identity\\AuthSystem\\AuthSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sezer TANCI\\source\\repos\\AuthSystem\\AuthSystem\\AuthSystem.csproj": {
+    "C:\\Users\\Sezer TANCI\\source\\repos\\ASP.NET-Core-Identity\\AuthSystem\\AuthSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sezer TANCI\\source\\repos\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Sezer TANCI\\source\\repos\\ASP.NET-Core-Identity\\AuthSystem\\AuthSystem.csproj",
         "projectName": "AuthSystem",
-        "projectPath": "C:\\Users\\Sezer TANCI\\source\\repos\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+        "projectPath": "C:\\Users\\Sezer TANCI\\source\\repos\\ASP.NET-Core-Identity\\AuthSystem\\AuthSystem.csproj",
         "packagesPath": "C:\\Users\\Sezer TANCI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sezer TANCI\\source\\repos\\AuthSystem\\AuthSystem\\obj\\",
+        "outputPath": "C:\\Users\\Sezer TANCI\\source\\repos\\ASP.NET-Core-Identity\\AuthSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sezer TANCI\\AppData\\Roaming\\NuGet\\NuGet.Config",
